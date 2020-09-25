@@ -14,4 +14,4 @@ Extra Meetings might be announced
 [TODO]
 
 ### This week's Skill Lab:
-[TryHackMe: Metasploit] (https://tryhackme.com/room/rpmetasploit)
+[TryHackMe: Metasploit](https://tryhackme.com/room/rpmetasploit)
