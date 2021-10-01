@@ -3,7 +3,7 @@ We are Columbia University's only cybersecurity oriented student-led organizatio
 This repository holds all materials, demos, presentations that will be used in meetings for educational purposes as well as guides on basic skills. Please use these materials responsibly.
 
 ### Fall 2021 Meeting Schedule:
-Fridays 5pm-7pm EST
+Thursdays 7pm-8:30pm EST usually in the CS Lounge
 
 Extra Meetings might be announced
 
@@ -12,6 +12,3 @@ Extra Meetings might be announced
 ### Independent Project Forms:
 
 [TODO]
-
-### This week's Skill Lab:
-[TryHackMe: Metasploit](https://tryhackme.com/room/rpmetasploit)
